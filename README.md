@@ -1,3 +1,5 @@
-## STZ Coin
+# STZ Coin
 
-# Non Mintable, Secure and Safe
+## Non Mintable, Not Freezable Secure and Safe
+
+Top Notch Developer
