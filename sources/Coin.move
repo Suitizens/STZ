@@ -39,13 +39,3 @@ module fungible_tokens::stz {
         init(STZ {}, ctx)
     }
 }
-
-/*
-sui client call --function mintOnce --module stz --package 0x155996cf4cae574b497136281ab26b6b58d620c42f8dcc181c9a774f8296eceb --args 0xf039cfdb54569113f7b8c158fd6f0ca9dc7a0a8b93438a57f391a819c445960e \"100000000000\" 0xa4595b8f5aba58fdf846515125aa882ea256202c1c6b5bf0bddde5f1970db1fc --gas-budget 30000000
-
-- ID: 0x296ab5da20857d1078b5f32119c4b3c8df755ff9279a0cf9020e25cbe15fa182 , Owner: Account Address ( 0xa6dafceb14cd8197600c1ba6fbfe2eca0dadb2f7ba4e1e568b53de6e3a71a578 )
-- ID: 0x30fd2a56d66565a1674232c80b1316278e1dc897a4f82e8f4ee3a0319626802d , Owner: Immutable
-- ID: 0xd067ce780e4c9e3e3febacfcc0c87851c1d2c5e5f75c6dd9c196e7657d641a75 , Owner: Account Address ( 0xa6dafceb14cd8197600c1ba6fbfe2eca0dadb2f7ba4e1e568b53de6e3a71a578 )
-- ID: 0xe5d7df1b9523dfeaa01097d7725cee7faf43cc2c3830ff3540228aba8eff1a21
-
-*/
